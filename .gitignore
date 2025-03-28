@@ -1,0 +1,5 @@
+.vs
+*.pdb
+MicroService/x64
+x64/Release/MicroService.zip
+x64
